@@ -1,0 +1,7 @@
+{
+  "name": "kwikee-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
