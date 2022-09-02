@@ -1,7 +1,8 @@
 {
   "name": "kwikee-test",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }

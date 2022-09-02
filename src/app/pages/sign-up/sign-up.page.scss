@@ -1,0 +1,38 @@
+.wrap{
+  padding: 10px 20px;  
+  height: 100%;
+  .login__header{
+    margin-top: 8rem;
+  }
+  p{
+    font-size: 12px;
+    margin-top: 10px;
+  }
+  .myInput{
+    display: flex;
+    align-items: center;
+    background-color: rgb(248, 246, 246);
+    padding: 0 10px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    border-radius: 5px;
+  }
+    .mylabel{
+    font-size: 11px;
+  }
+  .notice{
+    color: #000;
+    text-align:center;
+    font-size: 13px;
+
+  }
+  .signin{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    p{
+      margin-top: 20px;
+    }
+  }
+}
